@@ -1,0 +1,10 @@
+../Core/Src/main.c:71:6:initialise_e32	1
+../Core/Src/main.c:138:5:main	3
+../Core/Src/main.c:206:6:SystemClock_Config	4
+../Core/Src/main.c:253:13:MX_TIM2_Init	6
+../Core/Src/main.c:310:13:MX_TIM3_Init	6
+../Core/Src/main.c:367:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:400:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:433:13:MX_GPIO_Init	1
+../Core/Src/main.c:489:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:513:6:Error_Handler	1
