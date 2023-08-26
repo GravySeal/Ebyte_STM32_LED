@@ -1,0 +1,9 @@
+../Core/Src/main.c:80:6:initialise_e32	1
+../Core/Src/main.c:142:6:Set_LED	1
+../Core/Src/main.c:152:6:Set_Brightness	3
+../Core/Src/main.c:174:6:WS2812_Send	4
+../Core/Src/main.c:346:6:SystemClock_Config	4
+../Core/Src/main.c:220:5:main	15
+../Core/Src/main.c:616:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:623:6:HAL_TIM_PWM_PulseFinishedCallback	1
+../Core/Src/main.c:647:6:Error_Handler	1

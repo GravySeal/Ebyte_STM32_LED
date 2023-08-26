@@ -1,0 +1,16 @@
+../Core/Src/main.c:90:6:initialise_e32	1
+../Core/Src/main.c:136:9:get_id	9
+../Core/Src/main.c:176:6:Set_LED	1
+../Core/Src/main.c:186:6:Set_Brightness	4
+../Core/Src/main.c:208:6:WS2812_Send	6
+../Core/Src/main.c:253:5:main	2
+../Core/Src/main.c:358:6:SystemClock_Config	4
+../Core/Src/main.c:405:13:MX_TIM2_Init	7
+../Core/Src/main.c:466:13:MX_TIM3_Init	6
+../Core/Src/main.c:523:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:554:13:MX_DMA_Init	1
+../Core/Src/main.c:575:13:MX_GPIO_Init	1
+../Core/Src/main.c:646:6:HAL_UARTEx_RxEventCallback	4
+../Core/Src/main.c:676:6:HAL_TIM_PWM_PulseFinishedCallback	1
+../Core/Src/main.c:683:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:702:6:Error_Handler	1

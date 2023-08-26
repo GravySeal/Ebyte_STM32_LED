@@ -65,10 +65,13 @@ void Error_Handler(void);
 #define DIP6_GPIO_Port GPIOB
 #define DIP7_Pin GPIO_PIN_13
 #define DIP7_GPIO_Port GPIOB
+#define DIP8_Pin GPIO_PIN_14
+#define DIP8_GPIO_Port GPIOB
 #define LED_Pin GPIO_PIN_8
 #define LED_GPIO_Port GPIOA
 #define PANIC_Pin GPIO_PIN_15
 #define PANIC_GPIO_Port GPIOA
+#define PANIC_EXTI_IRQn EXTI15_10_IRQn
 #define DIP4_Pin GPIO_PIN_3
 #define DIP4_GPIO_Port GPIOB
 #define DIP3_Pin GPIO_PIN_4
@@ -83,6 +86,7 @@ void Error_Handler(void);
 #define M1_GPIO_Port GPIOB
 #define AUX_Pin GPIO_PIN_9
 #define AUX_GPIO_Port GPIOB
+#define AUX_EXTI_IRQn EXTI9_5_IRQn
 
 /* USER CODE BEGIN Private defines */
 
